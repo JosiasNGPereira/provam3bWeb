@@ -1,0 +1,26 @@
+/* src/styles/Card.css */
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 30%;
+    text-align: center;
+  }
+  
+  .card p {
+    font-size: 0.9em;
+    color: #333;
+    line-height: 1.4;
+  }
+  

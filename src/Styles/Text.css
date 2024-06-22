@@ -1,0 +1,17 @@
+/* src/styles/Text.css */
+.text-container {
+    padding: 20px;
+    text-align: left;
+    background-color: #f9f9f9;
+    margin: 20px auto;
+    width: 80%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-container p {
+    margin: 10px 0;
+    font-size: 1em;
+    line-height: 1.5;
+    color: #333;
+  }
+  
